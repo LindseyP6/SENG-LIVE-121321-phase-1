@@ -75,7 +75,7 @@ function formatDuration(duration) {
 
 // this function should return the first element
 function retrieveFirst(playlist) {
-
+  return playlist[0];
 }
 
 // // 👟👟👟 uncomment the lines below to test
